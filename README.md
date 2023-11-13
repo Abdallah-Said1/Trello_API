@@ -11,7 +11,7 @@
       *Create A Board in Trello Workspace "My First Board"*
  - #### Request 3: Get one board
     - #### Http Method : Get
-      *Get A Board called "My First Board" By ID *
+      *Get A Board called "My First Board" By ID*
  - #### Request 4: Create TODO List
     - #### Http Method : Post
       *Create A List In "My First Board" Called "TODO"*
