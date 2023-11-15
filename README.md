@@ -26,11 +26,11 @@
       
   - #### Request 6: Move Cart to Done List
     - #### Http Method : Put
-      *Move A Card Called "My Cart 1" From TODO List To DONE List*
+      *Move A Cart Called "My Cart 1" From TODO List To DONE List*
 
   - #### Request 7: Delete Board
     - #### Http Method : Delet
-      *Delet My Board"*
+      *Delet My Board*
 
      ### Creat My First Board And 2 Lists:
     ![Trello1](https://github.com/Abdallah-Said1/Trello_API/assets/143415632/db07099a-44e0-4d99-9580-6ac79d822e23)
