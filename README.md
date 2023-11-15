@@ -46,6 +46,12 @@
     ### Delet My Board From Trello API:
     ![Trello5](https://github.com/Abdallah-Said1/Trello_API/assets/143415632/276865e3-2da1-4b38-a984-4a624fcb037d)
 
+    ### HTML Report:
+    ![newman](https://github.com/Abdallah-Said1/Trello_API/assets/143415632/57216650-fa55-4f16-b412-91b769fec800)
+
+
+    
+
 
     
 
