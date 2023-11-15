@@ -26,7 +26,7 @@
       
   - #### Request 6: Move Cart to Done List
     - #### Http Method : Put
-      *Update A Card From List called TODO To Another List Called DONE*
+      *Move A Card Called "My Cart 1" From TODO List To DONE List*
 
   - #### Request 7: Delete Board
     - #### Http Method : Delet
